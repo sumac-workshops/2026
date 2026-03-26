@@ -1,0 +1,78 @@
+- Title: <b>Opening Welcome</b> 
+  Time: 08.30 - 08.45
+  Presenter: SUMAC Chairs
+  Is_paper: false
+  Whole_line: false
+  # 
+- Title: <b>(KeyNote Talk)</b> Knowledge Graphs for Cultural Heritage and Digital Humanities
+  Time: 08.45 - 09.35
+  Presenter: Victor de Boer
+  Is_paper: false
+  Whole_line: false
+  #
+- Title: "Spatially Localised Immersive Contemporary and Historic Photo Presentation on Mobile Devices in Augmented Reality"
+  Time: 09.35 - 10.00
+  Presenter: Loris Sauter
+  Is_paper: true
+  Whole_line: false
+  #
+- Title: <b>Coffee Break</b>
+  Time: 10.00 - 10.30
+  Presenter: 
+  Is_paper: false
+  Whole_line: true
+  # 
+- Title: '"Do touch!" - 3D Scanning and Printing Technologies for the Haptic Representation of Cultural Assets: A Study with Blind Target Users'
+  Time: 10.30 - 10.55
+  Presenter: Anika Spiesberger
+  Is_paper: true
+  Whole_line: false
+  #
+- Title: "SniffyArt: The Dataset of Smelling Persons"
+  Time: 10.55 - 11.20
+  Presenter: Mathias Zinnen
+  Is_paper: true
+  Whole_line: false
+  #
+- Title: <b>Lunch Break</b>
+  Time: 11.20 - 13.00
+  Presenter: 
+  Is_paper: false
+  Whole_line: true
+  # 
+- Title: <b>(KeyNote Talk)</b> Opportunities and Challenges in digitally transforming World Heritage at 50+ years
+  Time: 13.00 - 13.50
+  Presenter: Mario Santana Quintero
+  Is_paper: false
+  Whole_line: false
+  # 
+- Title: "Why Don't You Speak?: A Smartphone Application to Engage Museum Visitors Through Deepfakes Creation"
+  Time: 13.50 - 14.15
+  Presenter: Matteo Zaramella
+  Is_paper: true
+  Whole_line: false
+  #
+- Title: "Latent Wander: an Alternative Interface for Interactive and Serendipitous Discovery of Large AV Archives"
+  Time: 14.15 - 14.40
+  Presenter: Yuchen Yang
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>Award Ceremony and Wrap-Up</b> 
+  Time: 14.40 - 15.15
+  Presenter: SUMAC Chairs
+  Is_paper: false
+  Whole_line: false
+  # 
+- Title: "Beyond Built Year Prediction: The Bag of Time Model and a Case Study of Buddha Images"
+  Time: (Poster)
+  Presenter: Li Weng
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: "Clustering for the Analysis and Enrichment of Corpus of Images for the Spatio-temporal Monitoring of Restoration Sites"
+  Time: (Poster)
+  Presenter: Laura Willot
+  Is_paper: true
+  Whole_line: false
+  #

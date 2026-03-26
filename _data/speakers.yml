@@ -1,0 +1,16 @@
+- num_row: 1
+  speakers:
+    - name: Johan Oomen
+      title: Dr.
+      affiliation: Netherlands Institute for Sound & Vision, The Netherlands
+      photo: johan-oomen.jpg
+      url: https://www.beeldengeluid.nl/en/knowledge/experts/johan-oomen
+      bio: "Johan Oomen works at the Netherlands Institute for Sound & Vision as manager of the department Research and Heritage. He is also a researcher at the “User Centric Data Science” research group at VU University. Besides that, he is secretary of the PublicSpaces foundation, co-initiator of the Culture and Media workgroup within the National AI Coalition and chairman of the EUscreen Foundation. Johan Oomen is a member of the National Heritage Research Council, the NDE domain group 'Usable' and the advisory board of the Europeana Foundation."
+- num_row: 2
+  speakers:
+    - name: Diego Jiménez Badillo
+      title: Dr.
+      affiliation: Instituto Nacional de Antropología e Historia, Mexico
+      photo: diego-jimenez.jpg
+      url: https://inah.academia.edu/DiegoJimenez/CurriculumVitae
+      bio: "One of the pioneers in the field of Computational Humanities in Mexico who combines his expertise in Mexican Colonial History, Mesoamerican Archaeology, Computer Science and Geographical Information Systems to develop methodologies for the analysis and dissemination of cultural heritage. One of his main research areas is the application of 3D computer vision and machine learning techniques to automate the recognition, retrieval and classification of archaeological objects, particularly from Aztec repositories. Currently collaborates in a Digital Humanities project focused on data mining of texts and pictorial documents from sixteenth century New Spain."

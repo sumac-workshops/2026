@@ -1,0 +1,26 @@
+- title: Home
+  url: index.html
+- title: Overview
+  url: index.html#overview
+- title: CfP
+  url: index.html#call_for_papers
+- title: Special Highlights
+  url: index.html#highlights
+- title: Speakers
+  url: index.html#speakers
+- title: Accepted Papers
+  url: index.html#accepted_papers
+- title: Schedule
+  url: index.html#schedule 
+- title: Program committee
+  url: index.html#program_committee 
+- title: Organizers
+  url: index.html#organizers
+- title: Previous Editions
+  url: index.html#previous_editions
+# - title: Accepted papers
+#   url: TBA
+#   # url: accepted_papers.html
+# - title: Poster session
+
+#   url: TBA

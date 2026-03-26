@@ -1,0 +1,28 @@
+- num_row: 0
+  organizers:
+    - name: Valerie Gouet-Brunet
+      affiliation: IGN, Gustave Eiffel University, France
+      photo: valerie.jpg
+      url: https://www.umr-lastig.fr/vgouet/
+    - name: Edgar Roman-Rangel
+      affiliation: ITAM, Mexico
+      photo: edgar.jpg
+      url: https://facultad.itam.mx/facultad/edgar-francisco-roman-rangel/
+    - name: Li Weng
+      affiliation: Zhejiang Financial College, China
+      photo: li.png
+      url: https://lweng571.github.io/
+    # - name: Lili Mou
+    #   affiliation: University of Alberta
+    #   photo: lili_mou.jpg
+# - num_row: 1
+#   organizers:
+#     - name: Pascal Poupart
+#       affiliation: University of Waterloo
+#       photo: pascal_poupart.jpg
+#     - name: Ali Ghodsi
+#       affiliation: University of Waterloo
+#       photo: ali_ghodsi.jpg
+#     - name: Qun Liu
+#       affiliation: Huawei Noah's Ark Lab
+#       photo: qun_liu.png

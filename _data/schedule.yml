@@ -1,0 +1,90 @@
+- Title: <b>Welcome and Introduction</b>
+  Time: 09.00 - 09.15
+  Presenter: SUMAC Chairs
+  Is_paper: false
+  Whole_line: false
+  #
+- Title: <b>(First Keynote)</b> From Pixels to Preservation - The Power of Large Vision Models in Heritage Content Understanding <a href="https://github.com/sumac-workshops/2024/blob/d9aa2d68ec1a70ae17c24c121541e58ea979a7d6/presentor_slides/Jing_Zhang_SUMAC_Keynote_2024.pdf">Slides</a>
+  Time: 09.15 - 10.05
+  Presenter: Jing Zhang
+  Is_paper: false
+  Whole_line: false
+  #
+- Title: <b>(Oral)</b> Creating a Dataset for the Detection and Segmentation of Degradation Phenomena in Notre-Dame de Paris <a href="https://github.com/sumac-workshops/2024/blob/74c5d54959d7642af1f9f0ad873b54a01ee0cff1/presentor_slides/Laura_Willot_presentation_DatasetNotreDame.pdf">Slides</a>
+  Time: 10.05 - 10.30
+  Presenter: Laura Willot
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>ACM MM Break</b>
+  Time: 10.30 - 11.00
+  Presenter: 
+  Is_paper: false
+  Whole_line: true
+  #
+- Title: <b>(Poster)</b> 4D Geo Modelling from Different Sources at Large Scale <a href="https://github.com/sumac-workshops/2024/blob/d9aa2d68ec1a70ae17c24c121541e58ea979a7d6/presentor_slides/Sander_munster_24-10-28-SUMAC.pdf">Slides</a>
+  Time: 11.00 - 11.25
+  Presenter: Sander Münster
+  Is_paper: true
+  Whole_line: false
+  #
+- Title: <b>(Oral)</b> Scene Classification on Fine Arts with Style Transfer <a href="https://github.com/sumac-workshops/2024/blob/d9aa2d68ec1a70ae17c24c121541e58ea979a7d6/presentor_slides/4.slides-HHuang.pdf">Slides</a>
+  Time: 11.25 - 12.00
+  Presenter: Haiting Huang
+  Is_paper: true
+  Whole_line: false
+  #
+- Title: <b>(Poster)</b> Personalized Generative Storytelling with AI-Visual Illustrations for the Promotion of Knowledge in Cultural Heritage Tourism <a href="https://github.com/sumac-workshops/2024/blob/d9aa2d68ec1a70ae17c24c121541e58ea979a7d6/presentor_slides/5.slides-NBiondi.pdf">Slides</a>
+  Time: 12.00 - 12.15
+  Presenter: Niccolò Biondi
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>ACM MM Lunch Break</b> 
+  Time: 12.30 - 14.00
+  Presenter: 
+  Is_paper: false
+  Whole_line: true
+  # 
+- Title: <b>(Second Keynote)</b> God or the Devil are in the Details Too. Reusing 3D Digital Resources for Cultural Heritage Research
+  Time: 14.00 - 14.50
+  Presenter: Vera Moitinho de Almeida
+  Is_paper: false
+  Whole_line: false
+  #
+- Title: <b>(Oral)</b> Hand Gesture Recognition in Buddhist Art Images - Evaluation of a Keypoint-based Approach  <a href="https://github.com/sumac-workshops/2024/blob/d9aa2d68ec1a70ae17c24c121541e58ea979a7d6/presentor_slides/li_weng.pdf">Slides</a>
+  Time: 14.50 - 15.15
+  Presenter: Li Weng
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>ACM MM Break</b> 
+  Time: 15.30 - 16.00
+  Presenter: 
+  Is_paper: false
+  Whole_line: true
+  # 
+- Title: <b>(Poster)</b> Understanding User Engagement in Museum TikTok Videos by Exploring Multimodal Cues
+  Time: 16:00 - 16:15
+  Presenter: John See
+  Is_paper: true
+  Whole_line: false
+  # 
+- Title: <b>(Oral)</b> Historical Postcards Retrieval through Vision Foundation Models <a href="https://github.com/sumac-workshops/2024/blob/d9aa2d68ec1a70ae17c24c121541e58ea979a7d6/presentor_slides/9.slides-AAmri.pdf">Slides</a>
+  Time: 16:15-16:40
+  Presenter: Anis Amri
+  Is_paper: true
+  Whole_line: false
+  #
+- Title: <b>SUMAC Break</b>
+  Time: 16:40-16:55
+  Whole_line: true 
+  #
+- Title: <b>Award Ceremony and Wrap-Up</b>
+  Time: 16:55 - 17:10
+  Whole_line: true
+  #
+- Title: <b>All workshops end</b>
+  Time: 17:10 - 17:30
+  Whole_line: true
+  #
