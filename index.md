@@ -105,17 +105,16 @@ IMP NOTES:
 
 <!-- <p> <b>Journal Special Issue - </b>Authors of the best papers from SUMAC 2023 will be invited to submit an extended and improved version for consideration for Special Issue on Cultural Heritage in the Springer journal Multimedia Tools and Applications.</p>
 -->
-<br>
 
-<!--Confirmed Speakers-->
+<!-- Confirmed Speakers -->
 <!-- <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
-<!-- <hr  style="color: rgb(92, 242, 117);"> -->
+<!-- <hr  style="color: rgb(92, 242, 117);"> 
 <p>
 {% include speakers.html %}
 </p> -->
 
 <!-- <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
-<!-- <hr  style="color: rgb(92, 242, 117);"> -->
+<!-- <hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
 <li> <b>Keynotes</b></li>
@@ -192,7 +191,7 @@ IMP NOTES:
 <!-- Schedule -->
 
 <!-- <h2 class="blackpar_title" id="schedule">Schedule (Rio de Janeiro local time, 27 October) </h2>
-<!-- <hr  style="color: rgb(92, 242, 117);"> -->
+<!-- <hr  style="color: rgb(92, 242, 117);"> 
 <!-- <p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
 <p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
@@ -208,11 +207,11 @@ IMP NOTES:
 
 <!-- D-Day -->
 <!-- <h2 class="blackpar_title" id="d-day">D-Day</h2>
-<!-- <hr  style="color: rgb(92, 242, 117);"> -->
+<!-- <hr  style="color: rgb(92, 242, 117);"> 
 <center>
 	<img src="images/wall.png" width="80%">
 </center>
-<br> <br> -->
+<br> -->
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
@@ -220,7 +219,6 @@ IMP NOTES:
 <p>
 <!-- {% include program_committee.html %} -->
 </p>
-<br>
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
@@ -228,7 +226,6 @@ IMP NOTES:
 <p>
 {% include organizers.html %}
 </p>
-<br>
 
 <style>
 .vertical-center {
@@ -264,7 +261,6 @@ IMP NOTES:
 		</center>
 	</div>
 </div>
-<br>
 
 <!-- <h2 class="blackpar_title">Gold Sponsor</h2>
 <div class="row">
