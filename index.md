@@ -215,7 +215,7 @@ IMP NOTES:
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
 <!-- <hr  style="color: rgb(92, 242, 117);"> 
 <p>
-<!-- {% include program_committee.html %} -->
+<!-- {% include program_committee.html %}
 </p> -->
 
 <!-- Organizers -->
@@ -236,7 +236,7 @@ IMP NOTES:
 </style>
 
 <h2 class="blackpar_title">Sponsors</h2>
-<hr>
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <div class="row">
 	<div class="col">
 		<center>
@@ -274,9 +274,9 @@ IMP NOTES:
 	</div>
 </div> -->
 
-<!-- Technical Committee -->
+<!-- Previous editions -->
 <h2 class="blackpar_title" id="previous_editions">Previous Editions</h2>
-<hr>
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 {% include previous_editions.html %}
 </p>
