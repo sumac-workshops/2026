@@ -87,7 +87,7 @@ They must be encoded as PDF using the ACM Article Template (see <a href="https:/
 <p><b>Peer Review and publication.</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published as Open Access articles.
 </p>
 
-<p><b>Profile Registration</b> A registered profile at OpenReview (submissions' portal) is required to submit a paper.
+<p><b>Profile Registration.</b> A registered profile at OpenReview (submissions' portal) is required to submit a paper.
 </p>
 IMP NOTES:
 <ul>
