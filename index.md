@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/Brazil.jpg') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url('images/Brazil.jpg') no-repeat; background-size: cover; user-select: none;">
 	<center>
 		<br><br>
 		<h2 class="blackpar_title">SUMAC 2026</h2>
