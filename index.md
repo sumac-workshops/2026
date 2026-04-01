@@ -7,13 +7,13 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url('images/Brazil.jpg') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url('images/Brazil.jpg') no-repeat; background-size: cover; user-select: none;">
 	<center>
 		<br><br>
 		<h2 class="blackpar_title">SUMAC 2026</h2>
 		<h3 class="blackpar_title">The 8<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><br><b>In conjunction with <a href="https://2026.acmmm.org/"> ACM Multimedia 2026 </a><br> 10-14 November 2026, Rio de Janeiro, Brazil (On-Site)</b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://2026.acmmm.org/"> ACM Multimedia 2026 </a><br> 10-14 November 2026, Rio de Janeiro, Brazil (On-Site)</b></h5>
 		<br><br>	
 	</center>
 </div>
