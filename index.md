@@ -27,7 +27,7 @@ layout: home
 	<li> <b>[26 Mar, 2026]</b> <a href="https://sumac-workshops.github.io/2026/">Website Launched!</a></li>
 	<!-- <li> <b>[03 Apr, 2026]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC">Submission site is open!</a></li>  -->
 </ul>
-</p>
+</p><br>
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <hr  style="color: rgb(92, 242, 117);">
