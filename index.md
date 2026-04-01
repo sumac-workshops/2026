@@ -35,10 +35,10 @@ layout: home
 
 <p> Digital heritage data acquired are naturally massive and address a large diversity of monomodal modalities (text, structured referentials, image, video, 3D, music, sensor data). Their processing and promotion put into light several scientific challenges as well as various new use cases that are of topical interest today for the ACM Multimedia community, both for academics and industries. Like in the previous editions, we will strive to value the sharing of knowledge, algorithms and experiments; and also open source software and open data, by encouraging the submission of articles that promote this sharing policy. </p>
 <p> Abundant heritage data is available in the most recent years. Older data, that can be called the big data of the past, are mostly locked -- they currently remain largely “hidden” from the public, in galleries, libraries, archives, museums or data producers' infrastructures. Processing heritage data to increase their visibility will act as a game changer and contribute to a large panel of communities, by enabling an outstanding pool of inter-operable data, not only as a service to citizens but also to public or private actors, by challenging the research methods at the crossing of computer science, artificial intelligence and digital humanities. </p>
-<br>
+
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p> The ambition of SUMAC is to bring together researchers and practitioners from different disciplines to share ideas and methods on current trends in the analysis, understanding and promotion of heritage contents. These challenges are reflected in the corresponding sub-fields of machine learning, signal processing, multi-modal techniques and human-machine interaction. We welcome research contributions for the following (but not limited to) topics: </p>
 
 <ul>
@@ -64,7 +64,7 @@ layout: home
 <br>
 
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <ul>
  	<li>Paper submission: <b> July 16, 2026 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
 	<li>Author acceptance notification: August 6, 2026</li>
@@ -74,7 +74,7 @@ layout: home
 <br>
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted:
 <ul>
  <li> 4 pages plus 1-page reference (short paper);</li>
@@ -98,7 +98,7 @@ IMP NOTES:
 
 <!-- Special Highlights -->
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p> <b>Best Paper Award - </b>We will present a best paper award, accompanied with a certificate and a trophy, similar to previous editions. </p>
 
 <!-- <p> <b>This year, the best paper award goes to "xxx", presented by xxx</b>. </p> -->
@@ -109,13 +109,13 @@ IMP NOTES:
 
 <!--Confirmed Speakers-->
 <!-- <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 {% include speakers.html %}
 </p> -->
 
 <!-- <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 <ul>
 <li> <b>Keynotes</b></li>
@@ -192,7 +192,7 @@ IMP NOTES:
 <!-- Schedule -->
 
 <!-- <h2 class="blackpar_title" id="schedule">Schedule (Rio de Janeiro local time, 27 October) </h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <!-- <p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
 <p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
@@ -207,9 +207,8 @@ IMP NOTES:
 <br>  -->
 
 <!-- D-Day -->
-
 <!-- <h2 class="blackpar_title" id="d-day">D-Day</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <center>
 	<img src="images/wall.png" width="80%">
 </center>
@@ -217,7 +216,7 @@ IMP NOTES:
 
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 <!-- {% include program_committee.html %} -->
 </p>
@@ -225,13 +224,11 @@ IMP NOTES:
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 {% include organizers.html %}
 </p>
 <br>
-
-
 
 <style>
 .vertical-center {
