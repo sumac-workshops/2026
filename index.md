@@ -76,7 +76,7 @@ layout: home
 <p>
 The submissions guidelines for SUMAC 2026 follow the rules of the main conference ACM Multimedia 2026, see <a href="https://2026.acmmm.org/site/author-instructions.html" target=new> here</a>. In summary:
 </p>
-<p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted:
+<p><b>Submission format.</b> All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted:
 <ul>
  <li> 8 pages plus up to 2-page reference (full paper).</li>
  <li> 4 pages plus 2-page reference (short paper);</li>
@@ -84,7 +84,7 @@ The submissions guidelines for SUMAC 2026 follow the rules of the main conferenc
 They must be encoded as PDF using the ACM Article Template (see <a href="https://2026.acmmm.org/site/author-instructions.html" target=new> here</a>).
 </p>
 
-<p><b>Peer Review and publication</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published as Open Access articles.
+<p><b>Peer Review and publication.</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published as Open Access articles.
 </p>
 
 <p><b>Profile Registration</b> A registered profile at OpenReview (submissions' portal) is required to submit a paper.
