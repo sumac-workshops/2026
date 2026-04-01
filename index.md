@@ -61,7 +61,6 @@ layout: home
 	<li> Urban planning</li>
 	<li> Digital Twins</li>
 </ul>
-<br>
 
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <!-- <hr  style="color: rgb(92, 242, 117);"> -->
@@ -71,7 +70,6 @@ layout: home
 	<li>Camera-Ready: August 20, 2026</li>
 	<li>Workshop date: Nov. 10-14, 2026 (TBD)</li>
 </ul>
-<br>
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
 <!-- <hr  style="color: rgb(92, 242, 117);"> -->
@@ -213,12 +211,12 @@ IMP NOTES:
 </center>
 <br> -->
 
-<!-- Technical Committee -->
+<!-- Technical Committee
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
-<!-- <hr  style="color: rgb(92, 242, 117);"> -->
+<!-- <hr  style="color: rgb(92, 242, 117);"> 
 <p>
 <!-- {% include program_committee.html %} -->
-</p>
+</p> -->
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
