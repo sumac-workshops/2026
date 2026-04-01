@@ -21,7 +21,7 @@ layout: home
 
 <!-- News and Updates -->
 <h2 class="blackpar_title" id="news">News and Updates</h2>
-# <hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 <ul>
 	<li> <b>[26 Mar, 2026]</b> <a href="https://sumac-workshops.github.io/2026/">Website Launched!</a></li>
