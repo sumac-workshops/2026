@@ -214,12 +214,12 @@ IMP NOTES:
 </center>
 <br> -->
 
-<!-- Technical Committee
+<!-- Technical Committee -->
 <h2 class="blackpar_title" id="program_committee">Program Committee</h2>
-<!-- <hr  style="color: rgb(92, 242, 117);"> 
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
-<!-- {% include program_committee.html %}
-</p> -->
+{% include program_committee.html %}
+</p> 
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
