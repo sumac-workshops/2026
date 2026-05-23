@@ -25,7 +25,7 @@ layout: home
 <p>
 <ul>
 	<li> <b>[26 Mar, 2026]</b> <a href="https://sumac-workshops.github.io/2026/">Website Launched!</a></li>
-	<!-- <li> <b>[03 Apr, 2026]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC">Submission site is open!</a></li>  -->
+	<li> <b>[13 May, 2026]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC">Submission site is open!</a></li> 
 </ul>
 </p><br>
 
@@ -94,8 +94,8 @@ IMP NOTES:
 	<li> New profiles created without an institutional email will go through a moderation process that can take up to two weeks.</li>
 	<li> New profiles created with an institutional email will be activated automatically.</li>
 </ul>
-<!-- <p><b>Submissions' Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC</a>
-</p><br> -->
+<p><b>Submissions' Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC</a>
+</p><br>
 
 <!-- Special Highlights -->
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>

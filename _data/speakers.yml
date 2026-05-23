@@ -1,16 +1,16 @@
 - num_row: 1
   speakers:
-    - name: Johan Oomen
+    - name: Alasdair Newson
       title: Dr.
-      affiliation: Netherlands Institute for Sound & Vision, The Netherlands
-      photo: johan-oomen.jpg
-      url: https://www.beeldengeluid.nl/en/knowledge/experts/johan-oomen
-      bio: "Johan Oomen works at the Netherlands Institute for Sound & Vision as manager of the department Research and Heritage. He is also a researcher at the “User Centric Data Science” research group at VU University. Besides that, he is secretary of the PublicSpaces foundation, co-initiator of the Culture and Media workgroup within the National AI Coalition and chairman of the EUscreen Foundation. Johan Oomen is a member of the National Heritage Research Council, the NDE domain group 'Usable' and the advisory board of the Europeana Foundation."
+      affiliation: Sorbonne University, France
+      photo: alasdair-newson.jpg
+      url: https://sites.google.com/site/alasdairnewson
+      bio: "Alasdair Newson is a lecturer (associate professor) at the ISIR (Institut des Systèmes Intelligents et de Robotique) of Sorbonne Université (France), since 2023. He received his PhD from Télécom Paris (France) in 2014. From 2018 to 2023, he was assistant professor at Télécom Paris. His research interests include image and video restoration, editing and analysis, and the study of generative models for these purposes."
 - num_row: 2
   speakers:
-    - name: Diego Jiménez Badillo
+    - name: Luiz Velho
       title: Dr.
-      affiliation: Instituto Nacional de Antropología e Historia, Mexico
-      photo: diego-jimenez.jpg
-      url: https://inah.academia.edu/DiegoJimenez/CurriculumVitae
-      bio: "One of the pioneers in the field of Computational Humanities in Mexico who combines his expertise in Mexican Colonial History, Mesoamerican Archaeology, Computer Science and Geographical Information Systems to develop methodologies for the analysis and dissemination of cultural heritage. One of his main research areas is the application of 3D computer vision and machine learning techniques to automate the recognition, retrieval and classification of archaeological objects, particularly from Aztec repositories. Currently collaborates in a Digital Humanities project focused on data mining of texts and pictorial documents from sixteenth century New Spain."
+      affiliation: Institute for Pure and Applied Mathematics (IMPA), Brazil
+      photo: luiz-velho.jpg
+      url: https://lvelho.impa.br
+      bio: "Luiz Velho is a Scientist and a Creative Leader in Media Arts and Technologies. A pioneer in Computer Graphics, in 1978 he created the first computer-animated film in Brazil. He holds a PhD from the University of Toronto, an MSc from the MIT Media Lab, and a BA from ESDI. He is a senior researcher at IMPA and the head of the VISGRAF Laboratory. He has been a visiting researcher at the National Film Board, the Courant Institute of Mathematical Sciences, HP Imaging Research Lab, and Microsoft Research Asia. Among his many distinctions are the National Order of Scientific Merit; the Compaq Award for Computer Science; more than 33 award-winning technical papers; and 11 best video awards."
