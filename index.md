@@ -26,7 +26,7 @@ layout: home
 <ul>
 	<li> <b>[26 Mar, 2026]</b> <a href="https://sumac-workshops.github.io/2026/">Website Launched!</a></li>
 	<li> <b>[13 May, 2026]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC">Submission site is open!</a></li>
-	<li> <b>[12 Jul, 2026]</b> Paper submission <a href="#imp_dates">deadline</a> extended to July 23, 2026 (UTC-0)</li>
+	<li> <b>[12 Jul, 2026]</b> Paper submission <a href="#imp_dates">deadline</a> extended to <b>July 23</b>, 2026 (UTC-0)</li>
 </ul>
 </p><br>
 
