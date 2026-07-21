@@ -24,9 +24,9 @@ layout: home
 <!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 <ul>
-	<li> <b>[26 Mar, 2026]</b> <a href="https://sumac-workshops.github.io/2026/">Website Launched!</a></li>
+	<li> <b>[12 Jul, 2026]</b> Paper submission <a href="#imp_dates">deadline</a> extended to <b>July 23, 2026 (AoE)</b></li>
 	<li> <b>[13 May, 2026]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC">Submission site is open!</a></li>
-	<li> <b>[12 Jul, 2026]</b> Paper submission <a href="#imp_dates">deadline</a> extended to <b>July 23</b>, 2026 (UTC-0)</li>
+	<li> <b>[26 Mar, 2026]</b> <a href="https://sumac-workshops.github.io/2026/">Website Launched!</a></li>
 </ul>
 </p><br>
 
@@ -63,10 +63,10 @@ layout: home
 	<li> Digital Twins</li>
 </ul>
 
-<h2 class="blackpar_title" id="imp_dates">Important dates</h2>
+<h2 class="blackpar_title" id="imp_dates">Important dates (AoE)</h2>
 <!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <ul>
- 	<li>Paper submission: <b> <del>July 16</del> July 23, 2026 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
+ 	<li>Paper submission: <b> <del>July 16</del> July 23, 2026</b></li>
 	<li>Author acceptance notification: <del>August 6</del> August 10, 2026</li>
 	<li>Camera-Ready: August 20, 2026</li>
 	<li>Workshop date: Nov. 10-14, 2026 (TBD)</li>
