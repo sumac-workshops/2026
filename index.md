@@ -115,8 +115,9 @@ IMP NOTES:
 {% include speakers.html %}
 </p>
 
+<!-- Accepted papers -->
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
-<hr  style="color: rgb(92, 242, 117);">
+<!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 <ul>
 <li> <b>Keynotes</b></li>
