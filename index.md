@@ -115,20 +115,21 @@ IMP NOTES:
 {% include speakers.html %}
 </p>
 
-<!-- <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
+<h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
 <!-- <hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
 <li> <b>Keynotes</b></li>
 <ul> 
 	<li>
-		<i>The analysis of cultural heritage in the age of Ar@ficial Intelligence</i> - Diego Jimenez-Badillo
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760211" target="new">(proceedings)</a>
-			<a href="papers/slides/PDF_Presentation_SUMAC-27-10-2026_Diego_Jimenez-Badillo.pdf" target="new"> (presentation)</a>
+		<i>Cultural Heritage Media Projects of the Ancient Egypt</i> - Luiz Velho
+		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760211" target="new">(proceedings)</a>
+			<a href="papers/slides/PDF_Presentation_SUMAC-27-10-2026_Diego_Jimenez-Badillo.pdf" target="new"> (presentation)</a> -->
 	</li>
 	<li>
-		<i>New Narrative Visions for Cultural Heritage: Cultural Heritage Institutions as Custodians, Curators, and Co-creators</i> - Johan Oomen
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760210" target="new">(proceedings)</a>
+		<i>	
+Deep generative networks for image and video editing and restoration</i> - Alasdair Newson
+		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760210" target="new">(proceedings)</a> -->
 	</li>
 </ul> 
 <li> <b>Oral</b></li>
@@ -188,7 +189,7 @@ IMP NOTES:
 	</li>
 </ul>
 </ul>
-<br> -->
+<br>
 
 <!-- Schedule -->
 
