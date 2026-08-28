@@ -127,65 +127,50 @@ IMP NOTES:
 			<a href="papers/slides/PDF_Presentation_SUMAC-27-10-2026_Diego_Jimenez-Badillo.pdf" target="new"> (presentation)</a> -->
 	</li>
 	<li>
-		<i>	
-Deep generative networks for image and video editing and restoration</i> - Alasdair Newson
+		<i>	Deep generative networks for image and video editing and restoration</i> - Alasdair Newson
 		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760210" target="new">(proceedings)</a> -->
 	</li>
 </ul> 
 <li> <b>Oral</b></li>
 <ul> 
 	<li>
-		<i>Transparent Similarity Estimation of Medieval Pen Flourishing via Local Visual Patterns</i> - Florian Kibler, Monica Apellaniz-Portos, Max Theisen, Victor Adriel de Jesus Oliveira, Martin Haltrich, Matthias Zeppelzauer, Markus Seidl
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760203" target="new">(proceedings)</a>
-		<a href="papers/slides/kibler_transparent_similarity_estimation.pdf" target="new"> (presentation)</a>
+		<i>IconoBench: Can VLMs Understand Cultural Symbols and Iconography?</i> 
+		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760203" target="new">(proceedings)</a>
+		<a href="papers/slides/kibler_transparent_similarity_estimation.pdf" target="new"> (presentation)</a> -->
 	</li>
 	<li> 
-		<i>Listening to Oral History: Emotion Annotation and Recognition in the ACT UP Oral History Project</i> - Francisca Pessanha, Ian Padovani, Justus Klaveren, Heysem Kaya, Almila Akdag, Judith Masthoff 
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760204" target="new">(proceedings)</a>
-		<a href="papers/slides/SUMAC_Francisca_Pessanha.pdf" target="new"> (presentation)</a>
+		<i>Spalling segmentation on tuffeau limestone heritage facades using RGB–thermal fusion</i>
+		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760204" target="new">(proceedings)</a>
+		<a href="papers/slides/SUMAC_Francisca_Pessanha.pdf" target="new"> (presentation)</a> -->
 	</li> 
 	<li> 
-		<i>Composed Image Retrieval For Visual Localization: Evaluation For Architectural Contents</i> - Emile Blettery, Valerie Gouet-Brunet, Livio De Luca
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760200" target="new">(proceedings)</a>
-			<a href="papers/slides/PresentationSumac2026_Blettery_Static.pdf" target="new"> (presentation)</a>
+		<i>Experimenting with cross-modal retrieval for geolocalization of archival images with LiDAR data</i> 
+		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760200" target="new">(proceedings)</a>
+			<a href="papers/slides/PresentationSumac2026_Blettery_Static.pdf" target="new"> (presentation)</a> -->
 	</li>
 	<li> 
-		<i>Improved Bag of Time Model with Feature Fusion</i> - Li Weng, Qianneng Wang, Xizhe Wang, Bingya Wu
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760206" target="new">(proceedings)</a>
-		<a href="papers/slides/Improved_ Li_Weng.pdf" target="new"> (presentation)</a>
-	</li>
-	<li> 
-		<i>CineSearcher - A Multimodal Film Exploration Workspace</i> - Tobias Kreten, Marta Kipke
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760207" target="new">(proceedings)</a>
-		<a href="papers/slides/CineSearcher.pdf" target="new"> (presentation)</a>
-	</li>
-	<li> 
-		<i>DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification</i> - Tingyu Lin, Armin Dadras, Florian Kleber, Robert Sablatnig
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760209" target="new">(proceedings)</a>
-		<a href="papers/slides/DGMET_Tingyu_LIN.pdf" target="new"> (presentation)</a>
+		<i>Supporting Digital Conservation with GenAI: An Expert Evaluation of a Provenance-Aware Workflow for
+Iterative Restoration Planning</i>
+		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760206" target="new">(proceedings)</a>
+		<a href="papers/slides/Improved_ Li_Weng.pdf" target="new"> (presentation)</a> -->
 	</li>
 </ul>
 <li> <b>Poster</b></li>
 <ul>
 	<li> 
-		<i>Benchmarking OCR Tools for Historical Postcards: A Dataset and Evaluation</i> - Matthieu Pelingre and Salvatore Tabbone
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760201" target="new">(proceedings)</a>
-		<a href="papers/slides/Presentation SUMAC - Postcards BenchmarkOCR_small.pdf" target="new"> (presentation)</a>
+		<i>ConServe: Clean-Only Multimodal Metadata Error Detection Under Museum and Error-Type Shift</i> 
+		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760201" target="new">(proceedings)</a>
+		<a href="papers/slides/Presentation SUMAC - Postcards BenchmarkOCR_small.pdf" target="new"> (presentation)</a> -->
 	</li>
 	<li> 
-		<i>Rule-of-Thirds Detection with Interpretable Geometric Features</i> - Armin Dadras, Tingyu Lin, Robert Sablatnig, Markus Seidl
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760202" target="new">(proceedings)</a>
-		<a href="papers/slides/rot_detection_dadras.pdf" target="new"> (presentation)</a>
+		<i>Content-Based Image Retrieval for Archaeological Microwear Analysis: Baselines and Benchmarks</i> 
+		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760202" target="new">(proceedings)</a>
+		<a href="papers/slides/rot_detection_dadras.pdf" target="new"> (presentation)</a> -->
 	</li>
 	<li> 
-		<i>An Advanced Digital Twin Approach for Iconographic Heritage Modeling and Processing</i> - Fabrizio Amarilli, Matthias Alfeld, Gian Piero Zarri
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760208" target="new">(proceedings)</a>
-			<a href="papers/slides/Amarilli_SUMAC_2026.pdf" target="new"> (presentation)</a>
-	</li>
-	<li> 
-		<i>Virtual Reality in Cultural Heritage: A Case Study of Roman Glass Artifacts from Troia, Portugal</i> - Ana Antunes, Armanda Rodrigues, Inês Coutinho, Nuno Correia, Inês Vaz Pinto 
-		<a href="https://dl.acm.org/doi/10.1145/3746273.3760205" target="new">(proceedings)</a>
-			<a href="papers/slides/PresentationAna_Antunes_SUMAC_2026.pdf" target="new"> (presentation)</a>
+		<i>Recovering Missing Letters from Byzantine Monograms with Explainable Bayesian Inference</i> 
+		<!--<a href="https://dl.acm.org/doi/10.1145/3746273.3760208" target="new">(proceedings)</a>
+			<a href="papers/slides/Amarilli_SUMAC_2026.pdf" target="new"> (presentation)</a> -->
 	</li>
 </ul>
 </ul>
