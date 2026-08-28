@@ -116,7 +116,7 @@ IMP NOTES:
 </p>
 
 <h2 class="blackpar_title" id="accepted_papers">Accepted Papers</h2>
-<!-- <hr  style="color: rgb(92, 242, 117);">
+<hr  style="color: rgb(92, 242, 117);">
 <p>
 <ul>
 <li> <b>Keynotes</b></li>
