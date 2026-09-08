@@ -24,7 +24,7 @@ layout: home
 <!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 <ul>
-	<li> <b>[16 Aug, 2026]</b> Notifications released!
+	<li> <b>[16 Aug, 2026]</b> Notifications released!</li>
 	<li> <b>[12 Jul, 2026]</b> Paper submission <a href="#imp_dates">deadline</a> extended to <b>July 23, 2026 (AoE)</b></li>
 	<li> <b>[13 May, 2026]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC">Submission site is open!</a></li>
 	<li> <b>[26 Mar, 2026]</b> <a href="https://sumac-workshops.github.io/2026/">Website Launched!</a></li>
