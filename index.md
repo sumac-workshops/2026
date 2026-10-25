@@ -180,20 +180,20 @@ Iterative Restoration Planning</i>
 
 <!-- Schedule -->
 
-<!-- <h2 class="blackpar_title" id="schedule">Schedule (Rio de Janeiro local time, 27 October) </h2>
-<!-- <hr  style="color: rgb(92, 242, 117);"> 
-<!-- <p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
+<h2 class="blackpar_title" id="schedule">Schedule (Rio de Janeiro local time, 10 November) </h2>
+<hr  style="color: rgb(92, 242, 117);"> 
+<p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
 <p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include schedule.html %}
 </p> 
-<p> <b>Zoom for online attendance:</b> <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></p>
+<!-- <p> <b>Zoom for online attendance:</b> <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></p> -->
 <center>
-	<img src="images/SUMAC25_schedule.png" width="80%">
+	<img src="images/SUMAC26_schedule.png" width="80%">
 </center>
-<br>  -->
+<br>
 
 <!-- D-Day -->
 <!-- <h2 class="blackpar_title" id="d-day">D-Day</h2>
