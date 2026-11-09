@@ -24,7 +24,7 @@ layout: home
 <!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 <ul>
-	<li> <b>[09 Nov, 2026]</b> Zoom for online attendance: <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/SUMAC](https://univ-eiffel.zoom.us/j/84351269842">here</a> (code sumac2026) </li>
+	<li> <b>[09 Nov, 2026]</b> Zoom for online attendance: <a href="https://univ-eiffel.zoom.us/j/84351269842">here</a> (code sumac2026) </li>
 	<li> <b>[25 Oct, 2026]</b> The program of the workshop is available! </li>
 	<li> <b>[16 Aug, 2026]</b> Notifications released!</li>
 	<li> <b>[12 Jul, 2026]</b> Paper submission <a href="#imp_dates">deadline</a> extended to <b>July 23, 2026 (AoE)</b></li>
@@ -187,7 +187,7 @@ Iterative Restoration Planning</i>
 <p> <b>Keynotes</b>: 40 min talk + 10 min Q&A</p> 
 <p> <b>Orals</b>: 20 min talk + 5 min Q&A</p> 
 <p> <b>Posters</b>: 10 min talk + 3 min Q&A</p>
-<!-- <p> <b>Zoom for online attendance:</b> <a href="https://itam.zoom.us/j/95430040530?pwd=3LTKCVFJITAp00KyGlA5bgG6f3IokN.1">here</a></p> -->
+<p> <b>Zoom for online attendance:</b> <a href="https://univ-eiffel.zoom.us/j/84351269842">here</a> (code sumac2026)</p>
 <center>
 	<img src="images/SUMAC26_schedule.png" width="80%">
 </center>
