@@ -24,7 +24,7 @@ layout: home
 <!-- <hr  style="color: rgb(92, 242, 117);"> -->
 <p>
 <ul>
-	<li><b>[10 Nov, 2026]</b> Best paper award goes to "Spalling segmentation on tuffeau limestone heritage facades using RGB–thermal fusion" (<a href="https://dl.acm.org/doi/10.1145/3840472.3841744">ACM DL Link</a>), from Stuardo Lucho, Xavier Desquesnes, Remy Leconge, Xavier Brunetaud, Kévin Beck and Sylvie Treuillet (Université d'Orléans, France). Congratulation to them !!!<li>
+	<li><b>[10 Nov, 2026]</b> Best paper award goes to "Spalling segmentation on tuffeau limestone heritage facades using RGB–thermal fusion" (<a href="https://dl.acm.org/doi/10.1145/3840472.3841744">ACM DL Link</a>), from Stuardo Lucho, Xavier Desquesnes, Remy Leconge, Xavier Brunetaud, Kévin Beck and Sylvie Treuillet (Université d'Orléans, France). Congratulation to them !!!</li>
 	<li> <b>[10 Nov, 2026]</b> The proceedings are online: it's <a href="https://dl.acm.org/doi/10.1145/3767308.3842138">here</a></li>
 	<li> <b>[09 Nov, 2026]</b> <a href="https://univ-eiffel.zoom.us/j/84351269842">Zoom</a> for online attendance (code sumac2026) </li>
 	<li> <b>[25 Oct, 2026]</b> The program of the workshop is available! </li>
