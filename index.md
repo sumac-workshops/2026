@@ -236,11 +236,6 @@ Iterative Restoration Planning</i>
 		</center>
 	</div>
 	<div class="col">
-		<center>
-			<a href="https://www.timemachine.eu/"> <img src="images/TM-logo.png" width="256px"> </a>
-		</center>
-	</div>
-	<div class="col">
 		<center>		
 			<a href="https://www.itam.mx/"> <img src="images/logo-ITAM-verde-1.png" width="120px"> </a>
 		</center>
