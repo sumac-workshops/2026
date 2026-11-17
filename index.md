@@ -134,31 +134,31 @@ IMP NOTES:
 	</li>
 	<li>
 		<i>	Deep generative networks for image and video editing and restoration</i> - Alasdair Newson
-		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760210" target="new">(proceedings)</a> -->
+		<a href="https://dl.acm.org/doi/10.1145/3840472.3841741" target="new">(proceedings)</a>
 	</li>
 </ul> 
 <li> <b>Oral</b></li>
 <ul> 
 	<li>
 		<i>IconoBench: Can VLMs Understand Cultural Symbols and Iconography?</i> 
-		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760203" target="new">(proceedings)</a>
-		<a href="papers/slides/kibler_transparent_similarity_estimation.pdf" target="new"> (presentation)</a> -->
+		<a href="https://dl.acm.org/doi/10.1145/3840472.3841745" target="new">(proceedings)</a>
+		<!-- <a href="papers/slides/kibler_transparent_similarity_estimation.pdf" target="new"> (presentation)</a> -->
 	</li>
 	<li> 
 		<i>Spalling segmentation on tuffeau limestone heritage facades using RGB–thermal fusion</i>
-		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760204" target="new">(proceedings)</a>
-		<a href="papers/slides/SUMAC_Francisca_Pessanha.pdf" target="new"> (presentation)</a> -->
+		<a href="https://dl.acm.org/doi/10.1145/3840472.3841744" target="new">(proceedings)</a>
+		<!-- <a href="papers/slides/SUMAC_Francisca_Pessanha.pdf" target="new"> (presentation)</a> -->
 	</li> 
 	<li> 
 		<i>Experimenting with cross-modal retrieval for geolocalization of archival images with LiDAR data</i> 
-		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760200" target="new">(proceedings)</a>
-			<a href="papers/slides/PresentationSumac2026_Blettery_Static.pdf" target="new"> (presentation)</a> -->
+		<a href="https://dl.acm.org/doi/10.1145/3840472.3841742" target="new">(proceedings)</a>
+		<!-- <a href="papers/slides/PresentationSumac2026_Blettery_Static.pdf" target="new"> (presentation)</a> -->
 	</li>
 	<li> 
 		<i>Supporting Digital Conservation with GenAI: An Expert Evaluation of a Provenance-Aware Workflow for
 Iterative Restoration Planning</i>
-		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760206" target="new">(proceedings)</a>
-		<a href="papers/slides/Improved_ Li_Weng.pdf" target="new"> (presentation)</a> -->
+		<a href="https://dl.acm.org/doi/10.1145/3840472.3841739" target="new">(proceedings)</a>
+		<!-- <a href="papers/slides/Improved_ Li_Weng.pdf" target="new"> (presentation)</a> -->
 	</li>
 </ul>
 <li> <b>Poster</b></li>
@@ -170,13 +170,13 @@ Iterative Restoration Planning</i>
 	</li>
 	<li> 
 		<i>Content-Based Image Retrieval for Archaeological Microwear Analysis: Baselines and Benchmarks</i> 
-		<!-- <a href="https://dl.acm.org/doi/10.1145/3746273.3760202" target="new">(proceedings)</a>
-		<a href="papers/slides/rot_detection_dadras.pdf" target="new"> (presentation)</a> -->
+		<a href="https://dl.acm.org/doi/10.1145/3840472.3841740" target="new">(proceedings)</a>
+		<!-- <a href="papers/slides/rot_detection_dadras.pdf" target="new"> (presentation)</a> -->
 	</li>
 	<li> 
 		<i>Recovering Missing Letters from Byzantine Monograms with Explainable Bayesian Inference</i> 
-		<!--<a href="https://dl.acm.org/doi/10.1145/3746273.3760208" target="new">(proceedings)</a>
-			<a href="papers/slides/Amarilli_SUMAC_2026.pdf" target="new"> (presentation)</a> -->
+		<a href="https://dl.acm.org/doi/10.1145/3840472.3841738" target="new">(proceedings)</a>
+		<!-- <a href="papers/slides/Amarilli_SUMAC_2026.pdf" target="new"> (presentation)</a> -->
 	</li>
 </ul>
 </ul>
